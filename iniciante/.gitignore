@@ -1,2 +1,2 @@
 #Ignora todos os arquivos da pasta iniciante
-iniciante/
+git rm --cached -r /.iniciante
